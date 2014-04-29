@@ -1,7 +1,7 @@
 <?php
 /*
 Plugin Name: Advanced Custom Fields: Nav Menu Widget
-Plugin URI:
+Plugin URI: https://github.com/zacwasielewski/advanced-custom-fields-nav-menu-widget
 Description: Add-On plugin for Advanced Custom Fields (ACF) that displays a 'Nav Menu' Field widget.
 Version: 1.0
 Author: Zac Wasielewski <zac@wasielewski.org>
