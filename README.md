@@ -26,4 +26,4 @@ This is useful if you need to display a navigation menu that varies depending on
 3. On a *Post* or *Page* edit screen (targeted by the *Location* settings of the *Field Group* in step 1), select a *Navigation Menu* from the new dropdown menu. ([screenshot](http://cl.ly/image/0N2I2Q0u3A0A))
 4. In *Appearance > Widgets*, drag an *ACF Nav Menu* widget to the desired sidebar.
 5. Set the widget's *ACF Field Name* value to the *Field Name* noted in step 1, above. ([screenshot](http://cl.ly/image/1n2C0R030Y1Z))
-
+6. Enjoy your new navigation menu ([screenshot](http://cl.ly/image/2n042M1i460w))
